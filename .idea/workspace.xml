@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d08aa90c-7a4f-426b-a91f-5c06bb87ea83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/排序.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/SortMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/SortMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/Sorting.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/Sorting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+            <state relative-caret-position="168">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -46,7 +46,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/SortMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1281">
+            <state relative-caret-position="375">
               <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
             </state>
           </provider>
@@ -55,8 +55,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="861">
-              <caret line="41" column="45" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+            <state relative-caret-position="252">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+              <folding>
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/排序.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -88,14 +113,16 @@
         <option value="$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/SortMethod.java" />
         <option value="$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/mergeSort.java" />
         <option value="$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/MergeSort.java" />
+        <option value="$PROJECT_DIR$/doc/排序.md" />
         <option value="$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/Sorting.java" />
+        <option value="$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/QuickSort.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="45" />
     <option name="width" value="1565" />
-    <option name="height" value="1038" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -136,33 +163,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="gaoxiaosuanfa" type="462c0819:PsiDirectoryNode" />
               <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyBase" type="462c0819:PsiDirectoryNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gaoxiaosuanfa" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="MergeSort" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="studyBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyBase" type="462c0819:PsiDirectoryNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gaoxiaosuanfa" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="Sorting" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="studyBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyBase" type="462c0819:PsiDirectoryNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gaoxiaosuanfa" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="SortMethod" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="studyBase" type="b2602c69:ProjectViewProjectNode" />
@@ -296,7 +296,8 @@
       <workItem from="1597971868223" duration="5415000" />
       <workItem from="1597997114257" duration="2752000" />
       <workItem from="1598232307289" duration="6861000" />
-      <workItem from="1598317036026" duration="5247000" />
+      <workItem from="1598317036026" duration="6939000" />
+      <workItem from="1598403761627" duration="2726000" />
     </task>
     <task id="LOCAL-00001" summary="找素数的高效算法，开方方式">
       <created>1598008867095</created>
@@ -312,17 +313,24 @@
       <option name="project" value="LOCAL" />
       <updated>1598259950708</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="冒泡排序与并归排序">
+      <created>1598340118913</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598340118913</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36303000" />
+    <option name="totallyTimeSpent" value="40721000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="0" width="1252" height="830" extended-state="0" />
+    <frame x="36" y="0" width="1252" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25314334" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25314334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -330,7 +338,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995809" weight="0.32808024" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995809" visible="true" weight="0.32761088" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -358,7 +366,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="找素数的高效算法，开方方式" />
     <MESSAGE value="找素数的高效算法，一个希腊的方法&#10;插入排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="找素数的高效算法，一个希腊的方法&#10;插入排序" />
+    <MESSAGE value="冒泡排序与并归排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="冒泡排序与并归排序" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/design/src/com/kd/adapter/AdapterA.java" />
@@ -436,6 +445,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-337">
+          <caret line="352" column="37" selection-start-line="352" selection-start-column="37" selection-end-line="352" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/doc/程序设计笔记.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -446,24 +462,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/排序.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/SortMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1281">
+        <state relative-caret-position="375">
           <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="41" column="45" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+        <state relative-caret-position="189">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/arithmetic/src/gaoxiaosuanfa/sort/Sorting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+        <state relative-caret-position="168">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
         </state>
       </provider>
     </entry>

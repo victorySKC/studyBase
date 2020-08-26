@@ -11,7 +11,8 @@ public class Sorting {
 
         //System.out.println(list[2]);
        /* SortMethod.insertionSort(list);*/
-        MergeSort.mergeSort(list);
+//        MergeSort.mergeSort(list);
+        QuickSort.quickSort(list);
 
         for (int i = 0; i <list.length ; i++) {
             System.out.print(" " + list[i]);
