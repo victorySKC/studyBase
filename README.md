@@ -6,7 +6,13 @@
 
 ``git config --global user.name "VincentSi"
 
-git config --global user.email "2289799319@qq.com"
+ 
 
 ## 高效算法
 《数据结构与算法》一书的重要章节，将里面重点内容记录在里面，包括示例。
+### 2.排序
+   书上的排序放到这里，几个排序的官方示例。后期有相关的例子也会在里面补充上。
+   
+## java编程思想 
+里面一些练习题，放在这里
+
