@@ -22,12 +22,21 @@ public class Gerbil {
 
     public static void main(String[] args) {
        ArrayList<Gerbil> gerbils = new ArrayList<Gerbil>();
-        for(int i = 0; i < 10; i++)
+        for(int i = 0; i < 10; i++) {
             gerbils.add(new Gerbil(i));
-        for(int i = 0; i < 10; i++)
+        }
+        for(int i = 0; i < 10; i++) {
             gerbils.get(i).hop();
+        }
         // or, alternatively, using foreach syntax:
-        for(Gerbil g : gerbils)
+        for(Gerbil g : gerbils) {
             g.hop();
+        }
+
+        int a = 1;
+        if (a == 0){
+            a=5;
+        }
+        System.out.println(a);
     }
 }

@@ -54,8 +54,9 @@ public class MyArrayList<E> implements MyList<E> {
     @Override/*return true if this list contaions the element */
     public boolean contains(Object e) {
         for (int i = 0; i < size; i++) {
-            if (e.equals(data[i]))
+            if (e.equals(data[i])) {
                 return  true;
+            }
         }
         return false;
     }
@@ -67,8 +68,10 @@ public class MyArrayList<E> implements MyList<E> {
     }
 
     private void checkIndex(int index) {
-        if (index < 0 || index >= size)throw
-                new IndexOutOfBoundsException("Index :" + index + ", Size:" + size);
+        if (index < 0 || index >= size) {
+            throw
+                    new IndexOutOfBoundsException("Index :" + index + ", Size:" + size);
+        }
     }
 
     @Override
