@@ -7,13 +7,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="vincent" />
         <module name="day01_eesy_01mybatis" />
         <module name="996" />
-        <module name="vincent" />
+        <module name="coreTechnology" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="996" target="1.5" />
+      <module name="coreTechnology" target="8" />
       <module name="day01_eesy_01mybatis" target="1.5" />
       <module name="mybatis" target="1.5" />
       <module name="thinking" target="8" />

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/arithmetic/arithmetic.iml" filepath="$PROJECT_DIR$/arithmetic/arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coreTechnology/coreTechnology.iml" filepath="$PROJECT_DIR$/coreTechnology/coreTechnology.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis/day01_eesy_01mybatis/day01_eesy_01mybatis.iml" filepath="$PROJECT_DIR$/mybatis/day01_eesy_01mybatis/day01_eesy_01mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/design/design.iml" filepath="$PROJECT_DIR$/design/design.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
