@@ -22,8 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d08aa90c-7a4f-426b-a91f-5c06bb87ea83" name="Default Changelist" comment="核心技术学习">
-      <change afterPath="$PROJECT_DIR$/coreTechnology/src/main/java/v1ch03/BigIntegerTest.java" afterDir="false" />
+    <list default="true" id="d08aa90c-7a4f-426b-a91f-5c06bb87ea83" name="Default Changelist" comment="string 工具类使用">
+      <change afterPath="$PROJECT_DIR$/coreTechnology/src/main/java/v1ch03/InputTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +92,7 @@
       <recent name="F:\codeRepository\studyBase\doc\ThinkingInJava" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BigIntegerTest">
+  <component name="RunManager" selected="Application.InputTest">
     <configuration name="BigIntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="v1ch03.BigIntegerTest" />
       <module name="coreTechnology" />
@@ -132,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitiveTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.unit01.PrimitiveTest" />
-      <module name="thinking" />
+    <configuration name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch03.InputTest" />
+      <module name="coreTechnology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.unit01.*" />
+          <option name="PATTERN" value="v1ch03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InputTest" />
         <item itemvalue="Application.BigIntegerTest" />
         <item itemvalue="Application.Gerbil" />
         <item itemvalue="Application.testMap" />
         <item itemvalue="Application.Date" />
-        <item itemvalue="Application.PrimitiveTest" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +339,7 @@
       <workItem from="1673579125315" duration="1233000" />
       <workItem from="1674874561053" duration="1293000" />
       <workItem from="1677480004361" duration="10000" />
-      <workItem from="1683534682571" duration="7211000" />
+      <workItem from="1683534682571" duration="8674000" />
     </task>
     <task id="LOCAL-00001" summary="找素数的高效算法，开方方式">
       <created>1598008867095</created>
@@ -411,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683536240769</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="string 工具类使用">
+      <created>1683547959282</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683547959282</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,6 +450,7 @@
     <MESSAGE value="thinking java 10unit" />
     <MESSAGE value="添加独立模块测试成功。之后这个将作为学习的主要项目" />
     <MESSAGE value="核心技术学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="核心技术学习" />
+    <MESSAGE value="string 工具类使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="string 工具类使用" />
   </component>
 </project>
