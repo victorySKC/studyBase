@@ -22,11 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d08aa90c-7a4f-426b-a91f-5c06bb87ea83" name="Default Changelist" comment="Input输入类">
-      <change afterPath="$PROJECT_DIR$/coreTechnology/src/main/java/v1ch04/CalendarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coreTechnology/src/main/java/v1ch04/ConstructorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coreTechnology/src/main/java/v1ch04/EmployeeTest.java" afterDir="false" />
+    <list default="true" id="d08aa90c-7a4f-426b-a91f-5c06bb87ea83" name="Default Changelist" comment="进入类学习">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coreTechnology/src/main/java/v1ch04/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/coreTechnology/src/main/java/v1ch04/ConstructorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,13 +92,13 @@
       <recent name="F:\codeRepository\studyBase\doc\ThinkingInJava" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeeTest">
-    <configuration name="BigIntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v1ch03.BigIntegerTest" />
+  <component name="RunManager" selected="Application.ConstructorTest">
+    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch04.CalendarTest" />
       <module name="coreTechnology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="v1ch03.*" />
+          <option name="PATTERN" value="v1ch04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v1ch04.CalendarTest" />
+    <configuration name="ConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch04.ConstructorTest" />
       <module name="coreTechnology" />
       <extension name="coverage">
         <pattern>
@@ -180,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructorTest" />
         <item itemvalue="Application.EmployeeTest" />
         <item itemvalue="Application.CalendarTest" />
         <item itemvalue="Application.Retirement2" />
         <item itemvalue="Application.InputTest" />
-        <item itemvalue="Application.BigIntegerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +339,7 @@
       <workItem from="1673579125315" duration="1233000" />
       <workItem from="1674874561053" duration="1293000" />
       <workItem from="1677480004361" duration="10000" />
-      <workItem from="1683534682571" duration="18241000" />
+      <workItem from="1683534682571" duration="19458000" />
     </task>
     <task id="LOCAL-00001" summary="找素数的高效算法，开方方式">
       <created>1598008867095</created>
@@ -434,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683636081294</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="进入类学习">
+      <created>1683722494084</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1683722494084</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,6 +473,7 @@
     <MESSAGE value="核心技术学习" />
     <MESSAGE value="string 工具类使用" />
     <MESSAGE value="Input输入类" />
-    <option name="LAST_COMMIT_MESSAGE" value="Input输入类" />
+    <MESSAGE value="进入类学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="进入类学习" />
   </component>
 </project>
