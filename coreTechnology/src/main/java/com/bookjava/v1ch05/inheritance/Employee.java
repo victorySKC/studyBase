@@ -1,0 +1,43 @@
+package com.bookjava.v1ch05.inheritance;
+
+/**
+ * @author SiVincent
+ * @description 父类
+ * @date 2023/5/10
+ */
+import java.time.*;
+
+public class Employee
+{
+    private String name;
+    private double salary;
+    private LocalDate hireDay;
+
+    public Employee(String name, double salary, int year, int month, int day)
+    {
+        this.name = name;
+        this.salary = salary;
+        hireDay = LocalDate.of(year, month, day);
+    }
+
+    public String getName()
+    {
+        return name;
+    }
+
+    public double getSalary()
+    {
+        return salary;
+    }
+
+    public LocalDate getHireDay()
+    {
+        return hireDay;
+    }
+
+    public void raiseSalary(double byPercent)
+    {
+        double raise = salary * byPercent / 100;
+        salary += raise;
+    }
+}

@@ -1,4 +1,4 @@
-package v1ch03;
+package com.javabook.v1ch03;
 
 import java.util.Scanner;
 
